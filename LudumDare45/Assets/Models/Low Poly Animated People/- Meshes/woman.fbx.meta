@@ -1,0 +1,340 @@
+fileFormatVersion: 2
+guid: 2d48b7dd448b1cd47bb8b5b9e904a8a2
+ModelImporter:
+  serializedVersion: 25
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: GenericRig_Head
+  - first:
+      1: 100004
+    second: GenericRig_Hips
+  - first:
+      1: 100006
+    second: GenericRig_LeftArm
+  - first:
+      1: 100008
+    second: GenericRig_LeftFoot
+  - first:
+      1: 100010
+    second: GenericRig_LeftForeArm
+  - first:
+      1: 100012
+    second: GenericRig_LeftHand
+  - first:
+      1: 100014
+    second: GenericRig_LeftLeg
+  - first:
+      1: 100016
+    second: GenericRig_LeftShoulder
+  - first:
+      1: 100018
+    second: GenericRig_LeftToeBase
+  - first:
+      1: 100020
+    second: GenericRig_LeftUpLeg
+  - first:
+      1: 100022
+    second: GenericRig_Neck
+  - first:
+      1: 100024
+    second: GenericRig_Reference
+  - first:
+      1: 100026
+    second: GenericRig_RightArm
+  - first:
+      1: 100028
+    second: GenericRig_RightFoot
+  - first:
+      1: 100030
+    second: GenericRig_RightForeArm
+  - first:
+      1: 100032
+    second: GenericRig_RightHand
+  - first:
+      1: 100034
+    second: GenericRig_RightLeg
+  - first:
+      1: 100036
+    second: GenericRig_RightShoulder
+  - first:
+      1: 100038
+    second: GenericRig_RightToeBase
+  - first:
+      1: 100040
+    second: GenericRig_RightUpLeg
+  - first:
+      1: 100042
+    second: GenericRig_Spine
+  - first:
+      1: 100044
+    second: GenericRig_Spine1
+  - first:
+      1: 100046
+    second: GenericRig_Spine2
+  - first:
+      1: 100048
+    second: woman02
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: GenericRig_Head
+  - first:
+      4: 400004
+    second: GenericRig_Hips
+  - first:
+      4: 400006
+    second: GenericRig_LeftArm
+  - first:
+      4: 400008
+    second: GenericRig_LeftFoot
+  - first:
+      4: 400010
+    second: GenericRig_LeftForeArm
+  - first:
+      4: 400012
+    second: GenericRig_LeftHand
+  - first:
+      4: 400014
+    second: GenericRig_LeftLeg
+  - first:
+      4: 400016
+    second: GenericRig_LeftShoulder
+  - first:
+      4: 400018
+    second: GenericRig_LeftToeBase
+  - first:
+      4: 400020
+    second: GenericRig_LeftUpLeg
+  - first:
+      4: 400022
+    second: GenericRig_Neck
+  - first:
+      4: 400024
+    second: GenericRig_Reference
+  - first:
+      4: 400026
+    second: GenericRig_RightArm
+  - first:
+      4: 400028
+    second: GenericRig_RightFoot
+  - first:
+      4: 400030
+    second: GenericRig_RightForeArm
+  - first:
+      4: 400032
+    second: GenericRig_RightHand
+  - first:
+      4: 400034
+    second: GenericRig_RightLeg
+  - first:
+      4: 400036
+    second: GenericRig_RightShoulder
+  - first:
+      4: 400038
+    second: GenericRig_RightToeBase
+  - first:
+      4: 400040
+    second: GenericRig_RightUpLeg
+  - first:
+      4: 400042
+    second: GenericRig_Spine
+  - first:
+      4: 400044
+    second: GenericRig_Spine1
+  - first:
+      4: 400046
+    second: GenericRig_Spine2
+  - first:
+      4: 400048
+    second: woman02
+  - first:
+      43: 4300000
+    second: woman02
+  - first:
+      74: 7400000
+    second: Take 001
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: woman02
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GREY1
+    second: {fileID: 2100000, guid: 7656fce69e752469db43c7fae29cb758, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      internalID: 7400000
+      firstFrame: 1
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: GenericRig_Reference
+        weight: 1
+      - path: GenericRig_Reference/GenericRig_Hips
+        weight: 1
+      - path: GenericRig_Reference/GenericRig_Hips/GenericRig_LeftUpLeg
+        weight: 1
+      - path: GenericRig_Reference/GenericRig_Hips/GenericRig_LeftUpLeg/GenericRig_LeftLeg
+        weight: 1
+      - path: GenericRig_Reference/GenericRig_Hips/GenericRig_LeftUpLeg/GenericRig_LeftLeg/GenericRig_LeftFoot
+        weight: 1
+      - path: GenericRig_Reference/GenericRig_Hips/GenericRig_LeftUpLeg/GenericRig_LeftLeg/GenericRig_LeftFoot/GenericRig_LeftToeBase
+        weight: 1
+      - path: GenericRig_Reference/GenericRig_Hips/GenericRig_RightUpLeg
+        weight: 1
+      - path: GenericRig_Reference/GenericRig_Hips/GenericRig_RightUpLeg/GenericRig_RightLeg
+        weight: 1
+      - path: GenericRig_Reference/GenericRig_Hips/GenericRig_RightUpLeg/GenericRig_RightLeg/GenericRig_RightFoot
+        weight: 1
+      - path: GenericRig_Reference/GenericRig_Hips/GenericRig_RightUpLeg/GenericRig_RightLeg/GenericRig_RightFoot/GenericRig_RightToeBase
+        weight: 1
+      - path: GenericRig_Reference/GenericRig_Hips/GenericRig_Spine
+        weight: 1
+      - path: GenericRig_Reference/GenericRig_Hips/GenericRig_Spine/GenericRig_Spine1
+        weight: 1
+      - path: GenericRig_Reference/GenericRig_Hips/GenericRig_Spine/GenericRig_Spine1/GenericRig_Spine2
+        weight: 1
+      - path: GenericRig_Reference/GenericRig_Hips/GenericRig_Spine/GenericRig_Spine1/GenericRig_Spine2/GenericRig_LeftShoulder
+        weight: 1
+      - path: GenericRig_Reference/GenericRig_Hips/GenericRig_Spine/GenericRig_Spine1/GenericRig_Spine2/GenericRig_LeftShoulder/GenericRig_LeftArm
+        weight: 1
+      - path: GenericRig_Reference/GenericRig_Hips/GenericRig_Spine/GenericRig_Spine1/GenericRig_Spine2/GenericRig_LeftShoulder/GenericRig_LeftArm/GenericRig_LeftForeArm
+        weight: 1
+      - path: GenericRig_Reference/GenericRig_Hips/GenericRig_Spine/GenericRig_Spine1/GenericRig_Spine2/GenericRig_LeftShoulder/GenericRig_LeftArm/GenericRig_LeftForeArm/GenericRig_LeftHand
+        weight: 1
+      - path: GenericRig_Reference/GenericRig_Hips/GenericRig_Spine/GenericRig_Spine1/GenericRig_Spine2/GenericRig_Neck
+        weight: 1
+      - path: GenericRig_Reference/GenericRig_Hips/GenericRig_Spine/GenericRig_Spine1/GenericRig_Spine2/GenericRig_Neck/GenericRig_Head
+        weight: 1
+      - path: GenericRig_Reference/GenericRig_Hips/GenericRig_Spine/GenericRig_Spine1/GenericRig_Spine2/GenericRig_RightShoulder
+        weight: 1
+      - path: GenericRig_Reference/GenericRig_Hips/GenericRig_Spine/GenericRig_Spine1/GenericRig_Spine2/GenericRig_RightShoulder/GenericRig_RightArm
+        weight: 1
+      - path: GenericRig_Reference/GenericRig_Hips/GenericRig_Spine/GenericRig_Spine1/GenericRig_Spine2/GenericRig_RightShoulder/GenericRig_RightArm/GenericRig_RightForeArm
+        weight: 1
+      - path: GenericRig_Reference/GenericRig_Hips/GenericRig_Spine/GenericRig_Spine1/GenericRig_Spine2/GenericRig_RightShoulder/GenericRig_RightArm/GenericRig_RightForeArm/GenericRig_RightHand
+        weight: 1
+      - path: woman02
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.099999994
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
